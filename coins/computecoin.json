@@ -1,0 +1,7 @@
+{
+    "name": "ComputeCoin",
+    "symbol": "PUTEz",
+    "algorithm": "x11",
+    "mposDiffMultiplier": 256,
+    "peerMagic": "4c656574"
+}
