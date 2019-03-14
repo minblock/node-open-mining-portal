@@ -1,0 +1,7 @@
+{
+    "name": "Picscoin",
+    "symbol": "PIC",
+    "algorithm": "scrypt",
+    "peerMagic": "4c656574",
+    "peerMagicTestnet": "05040302"
+}
