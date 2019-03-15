@@ -1,7 +1,7 @@
 {
     "name": "OGKushcoin",
-    "symbol": "OGC",
+    "symbol": "KUSH",
     "algorithm": "scrypt",
-    "peerMagic": "4c656574",
-    "peerMagicTestnet": "05040302"
+    "peerMagic": "57454544",
+    "peerMagicTestnet": "da040200"
 }
